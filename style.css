@@ -1,0 +1,66 @@
+body {
+  font-family: Helvetica, Arial, sans-serif;
+  width: 1000px;
+  margin: 0 auto;
+}
+
+.checkboxes label {
+  float: left;
+  display: inline-block;
+  width: 20%;
+}
+
+.abc {
+  color: red;
+  stroke: red;
+}
+
+.bbc {
+  color: blue;
+  stroke: blue;
+}
+
+.cbs {
+  color: green;
+  stroke: green;
+}
+
+.cnn {
+  color: orange;
+  stroke: orange;
+}
+
+.fox {
+  color: purple;
+  stroke: purple;
+}
+
+.nbc {
+  color: pink;
+  stroke: pink;
+}
+
+.npr {
+  color: yellowgreen;
+  stroke: yellowgreen;
+}
+
+.nyt {
+  color: black;
+  stroke: black;
+}
+
+.wsj {
+  color: maroon;
+  stroke: maroon;
+}
+
+.usa {
+  color: teal;
+  stroke: teal;
+}
+
+small {
+  display: block;
+  text-align: right;
+}

@@ -1,0 +1,36 @@
+<!doctype html>
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Climate Coverage Assessment</title>
+  <link rel="stylesheet" type="text/css" href="./style.css">
+</head>
+<body>
+  <h1>Climate Change MSM Coverage Assessment</h1>
+  <p>
+    We watched the top 10 "mainstream media" home pages for the keywords
+    "climate change" and "global warming" <strong>every 5 minutes</strong>
+    and counted the number of times that they showed up. These are our
+    results over the past 2 years.
+  </p>
+
+  <h4>Filter:</h4>
+  <div class="checkboxes">
+    <label class="abc"><input type="checkbox"/>ABC News</label>
+    <label class="bbc"><input type="checkbox"/>BBC World Service</label>
+    <label class="cbs"><input type="checkbox"/>CBS News</label>
+    <label class="cnn"><input type="checkbox"/>CNN</label>
+    <label class="fox"><input type="checkbox"/>Fox News</label>
+    <label class="nbc"><input type="checkbox"/>NBC News</label>
+    <label class="npr"><input type="checkbox"/>NPR</label>
+    <label class="nyt"><input type="checkbox"/>New York Times</label>
+    <label class="wsj"><input type="checkbox"/>Wall St Journal</label>
+    <label class="usa"><input type="checkbox"/>USA Today</label>
+  </div>
+  <div id="graph"></div>
+  <small>Powered by d3.js and google app scripts</small>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.2.6/d3.js"></script>
+  <script src="./script.js"></script>
+</body>
+</html>
