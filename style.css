@@ -10,54 +10,56 @@ body {
   width: 20%;
 }
 
+.line { fill: none; }
+
 .abc {
-  color: black;
-  stroke: black;
+  color: red;
+  stroke: red;
 }
 
 .bbc {
-  color: darkslateblue;
-  stroke: darkslateblue;
+  color: orange;
+  stroke: orange;
 }
 
 .cbs {
+  color: darkgoldenrod;
+  stroke: darkgoldenrod;
+}
+
+.cnn {
   color: olive;
   stroke: olive;
 }
 
-.cnn {
-  color: teal;
-  stroke: teal;
-}
-
 .fox {
-  color: darkolivegreen;
-  stroke: darkolivegreen;
+  color: green;
+  stroke: green;
 }
 
 .nbc {
-  color: mediumblue;
-  stroke: mediumblue;
+  color: turquoise;
+  stroke: turquoise;
 }
 
 .npr {
-  color: forestgreen;
-  stroke: forestgreen;
+  color: deepskyblue;
+  stroke: deepskyblue;
 }
 
 .nyt {
-  color: darkred;
-  stroke: darkred;
+  color: blue;
+  stroke: blue;
 }
 
 .wsj {
-  color: indigo;
-  stroke: indigo;
+  color: purple;
+  stroke: purple;
 }
 
 .usa {
-  color: purple;
-  stroke: purple;
+  color: deeppink;
+  stroke: deeppink;
 }
 
 small {
