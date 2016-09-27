@@ -11,53 +11,53 @@ body {
 }
 
 .abc {
-  color: red;
-  stroke: red;
-}
-
-.bbc {
-  color: blue;
-  stroke: blue;
-}
-
-.cbs {
-  color: green;
-  stroke: green;
-}
-
-.cnn {
-  color: orange;
-  stroke: orange;
-}
-
-.fox {
-  color: purple;
-  stroke: purple;
-}
-
-.nbc {
-  color: cadetblue;
-  stroke: cadetblue;
-}
-
-.npr {
-  color: yellowgreen;
-  stroke: yellowgreen;
-}
-
-.nyt {
   color: black;
   stroke: black;
 }
 
+.bbc {
+  color: darkslateblue;
+  stroke: darkslateblue;
+}
+
+.cbs {
+  color: olive;
+  stroke: olive;
+}
+
+.cnn {
+  color: teal;
+  stroke: teal;
+}
+
+.fox {
+  color: darkolivegreen;
+  stroke: darkolivegreen;
+}
+
+.nbc {
+  color: mediumblue;
+  stroke: mediumblue;
+}
+
+.npr {
+  color: forestgreen;
+  stroke: forestgreen;
+}
+
+.nyt {
+  color: darkred;
+  stroke: darkred;
+}
+
 .wsj {
-  color: maroon;
-  stroke: maroon;
+  color: indigo;
+  stroke: indigo;
 }
 
 .usa {
-  color: teal;
-  stroke: teal;
+  color: purple;
+  stroke: purple;
 }
 
 small {
