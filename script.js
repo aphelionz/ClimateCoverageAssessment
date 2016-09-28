@@ -57,7 +57,7 @@ d3.csv("./data.csv", function(error, data) {
   svg.append("g")
     .attr("class", "axis axis--x")
     .attr("transform", "translate(0," + height + ")")
-    .call(d3.axisBottom(x));
+    .call(d3.axisBottom(x).ticks(20));
 
   svg.append("g")
     .attr("class", "axis axis--y")
